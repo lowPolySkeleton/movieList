@@ -203,7 +203,15 @@ const movieObj = [
     keywords: "movie, musical, romance, drama, dvd"
   },
   {
-    name:"Die Hard Trilogy",
+    name:"Die Hard",
+    keywords: "movie, action, drama, secret agent, dvd"
+  },
+  {
+    name:"Die Hard 2: Die Harder",
+    keywords: "movie, action, drama, secret agent, dvd"
+  },
+  {
+    name:"Die Hard with a Vengeance (Die Hard 3)",
     keywords: "movie, action, drama, secret agent, dvd"
   },
   {
