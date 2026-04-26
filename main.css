@@ -38,6 +38,9 @@ tbody{
         background-color: #cfe0dc;
     }
 }
+#count{
+    text-align: right;
+}
 .sort{
     cursor: pointer;
 }
