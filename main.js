@@ -167,12 +167,8 @@ const movieObj = [
     keywords: "anime, action, drama, series, dvd"
   },
   {
-    name:"Family Guy Season 3",
+    name:"Family Guy Season 3 & Season 4 pt. 1",
     keywords: "comedy, adult, series, dvd"
-  },
-  {
-    name:"Family Guy Season 4 Part 1",
-    keywords: "scifi, drama, dvd"
   },
   {
     name:"Lucky # Slevin",
