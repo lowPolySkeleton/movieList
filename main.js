@@ -303,6 +303,14 @@ const movieObj = [
     keywords: "movie, scifi, drama, adventure, dvd"
   },
   {
+    name:"Mummy Returns, The",
+    keywords: "movie, scifi, drama, adventure, dvd"
+  },
+  {
+    name:"Scorpion King, The",
+    keywords: "movie, scifi, drama, adventure, dvd"
+  },
+  {
     name:"Stargate",
     keywords: "movie, scifi, action, adventure, dvd"
   },
