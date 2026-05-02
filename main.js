@@ -275,6 +275,10 @@ const movieObj = [
     keywords: "movie, rdj, mystery, detective, action, drama, dvd"
   },
   {
+    name:"Sherlock Holmes: A Game of Shadows",
+    keywords: "movie, rdj, mystery, detective, action, drama, dvd"
+  },
+  {
     name:"Shawshank Redemption, The",
     keywords: "movie, drama, crime, bluray"
   },
@@ -489,6 +493,74 @@ const movieObj = [
   {
     name:"Bridge to Terabithia, The",
     keywords: "movie, adventure, coming of age, fantasy, drama, dvd"
+  },
+  {
+    name:"Footloose",
+    keywords: "movie, romance, drama, dvd"
+  },
+  {
+    name:"Juno",
+    keywords: "movie, comedy, romance, drama, dvd"
+  },
+  {
+    name:"Princess Bride, The",
+    keywords: "movie,  Adventure, Family, Fantasy, Comedy, Romance, dvd"
+  },
+  {
+    name:"Mrs. Doubtfire",
+    keywords: "movie,  dvd, Comedy, Drama, Family"
+  },
+  {
+    name:"Chicago",
+    keywords: "movie,  dvd, comedy, crime, musical"
+  },
+  {
+    name:"21",
+    keywords: "movie,  dvd, drama, crime"
+  },
+  {
+    name:"Rounders",
+    keywords: "movie,  dvd, drama, crime"
+  },
+  {
+    name:"Watchmen",
+    keywords: "movie,  dvd, mystery, action, scifi"
+  },
+  {
+    name:"Liar Liar",
+    keywords: "movie,  dvd, comedy"
+  },
+  {
+    name:"Paper Towns",
+    keywords: "movie, bluray, mystery, romance, drama"
+  },
+  {
+    name:"Tron",
+    keywords: "movie, dvd, scifi, action, adventure"
+  },
+  {
+    name:"Imitation Game, The",
+    keywords: "movie, dvd, History, Drama, Thriller, War"
+  },
+  {
+    name:"Cell, The",
+    keywords: "movie, dvd, Horror, Science Fiction, Thriller"
+  },
+  {
+    name:"Hot Fuzz",
+    keywords: "movie, dvd, Crime, Action, Comedy"
+  },
+  {
+    name:"Ghost Town",
+    keywords: "movie, dvd, Comedy, Romance, Drama, Fantasy"
+  },
+  {
+    name:"Kill Bill: Vol. 1",
+    keywords: "movie, dvd, Action, Crime"
+  },
+  {
+    name:"Forrest Gump",
+    keywords: "movie, dvd, Comedy, Drama, Romance"
   },
 ]
 
