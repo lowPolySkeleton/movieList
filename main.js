@@ -331,6 +331,10 @@ const movieObj = [
     keywords: "movie, fantasy, adventure, drama, dvd"
   },
   {
+    name:"Lord of the Rings: The Two Towers",
+    keywords: "movie, fantasy, adventure, drama, dvd"
+  },
+  {
     name:"Lord of the Rings: Return of the King",
     keywords: "movie, fantasy, adventure, drama, dvd"
   },
@@ -561,6 +565,34 @@ const movieObj = [
   {
     name:"Forrest Gump",
     keywords: "movie, dvd, Comedy, Drama, Romance"
+  },
+  {
+    name:"Beverly Hills Cop 2",
+    keywords: "movie, dvd, Comedy, Drama, II"
+  },
+  {
+    name:"Beverly Hills Cop 3",
+    keywords: "movie, dvd, Comedy, Drama, III"
+  },
+  {
+    name:"Sin City",
+    keywords: "movie, dvd, Drama, Action"
+  },
+  {
+    name:"Boondock Saints, The",
+    keywords: "movie, dvd, Comedy, Drama, Action"
+  },
+  {
+    name:"DodgeBall",
+    keywords: "movie, dvd, Comedy"
+  },
+  {
+    name:"Meet Joe Black",
+    keywords: "movie, dvd, Drama"
+  },
+  {
+    name:"iRobot",
+    keywords: "movie, dvd, Drama, scifi"
   },
 ]
 
