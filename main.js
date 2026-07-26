@@ -594,6 +594,30 @@ const movieObj = [
     name:"iRobot",
     keywords: "movie, dvd, Drama, scifi"
   },
+  {
+    name:"National Treasure",
+    keywords: "movie, dvd, mystery, adventure"
+  },
+  {
+    name:"Beautiful Mind, A",
+    keywords: "movie, dvd, Drama"
+  },
+  {
+    name:"Armageddon",
+    keywords: "movie, dvd, Drama, scifi, action, comedy"
+  },
+  {
+    name:"Big Lebowski, The",
+    keywords: "movie, dvd, comedy"
+  },
+  {
+    name:"Martian, The",
+    keywords: "movie, dvd, Drama, scifi, comedy"
+  },
+  {
+    name:"The Good, The Bad and the Ugly",
+    keywords: "movie, dvd, Drama, western"
+  },
 ]
 
 let moviesList = new List('myMovies', listOptions, movieObj);
