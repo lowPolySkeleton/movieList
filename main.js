@@ -642,6 +642,18 @@ const movieObj = [
     name:"Project Hail Mary",
     keywords: "movie, bluray, scifi, Adventure"
   },
+  {
+    name:"Mob Psycho Complete Collection",
+    keywords: "anime, bluray"
+  },
+  {
+    name:"Samurai Champloo Complete Collection",
+    keywords: "anime, bluray"
+  },
+  {
+    name:"Final Fantasy VII: Advent Children",
+    keywords: "movie, bluray, Animation, Action, Adventure, Fantasy, and scifi"
+  },
 ]
 
 let moviesList = new List('myMovies', listOptions, movieObj);
