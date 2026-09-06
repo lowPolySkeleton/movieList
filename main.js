@@ -618,6 +618,30 @@ const movieObj = [
     name:"The Good, The Bad and the Ugly",
     keywords: "movie, dvd, Drama, western"
   },
+  {
+    name:"Great Pumpkin Charlie Brown, The",
+    keywords: "movie, dvd, halloween,  Family, Animation, TV Movie, Comedy"
+  },
+  {
+    name:"Happening, The",
+    keywords: "movie, bluray, Thriller, scifi"
+  },
+  {
+    name:"Bad Boys II",
+    keywords: "movie, action, comedy, mystery, drama, dvd"
+  },
+  {
+    name:"Good Will Hunting",
+    keywords: "movie, drama, dvd"
+  },
+  {
+    name:"Gone in 60 Seconds",
+    keywords: "movie, dvd,  Action, Crime, Thriller "
+  },
+  {
+    name:"Project Hail Mary",
+    keywords: "movie, bluray, scifi, Adventure"
+  },
 ]
 
 let moviesList = new List('myMovies', listOptions, movieObj);
