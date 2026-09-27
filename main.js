@@ -654,6 +654,46 @@ const movieObj = [
     name:"Final Fantasy VII: Advent Children",
     keywords: "movie, bluray, Animation, Action, Adventure, Fantasy, and scifi"
   },
+  {
+    name:"Pokemon: Detective Pikachu",
+    keywords: "movie, dvd, Action, Adventure, Fantasy"
+  },
+  {
+    name:"Little Miss Sunshine",
+    keywords: "movie, dvd, comedy, drama"
+  },
+  {
+    name:"Sister Act",
+    keywords: "movie, dvd, comedy, music"
+  },
+  {
+    name:"Dante's Peak",
+    keywords: "movie, dvd, Action, Adventure, thriller, drama"
+  },
+  {
+    name:"Burbs, the",
+    keywords: "movie, dvd, comedy, horror, thriller"
+  },
+  {
+    name:"Pulp Fiction",
+    keywords: "movie, dvd, comedy, crime, thriller"
+  },
+  {
+    name:"Contact",
+    keywords: "movie, dvd, drama, scifi, mystery"
+  },
+  {
+    name:"Interstellar",
+    keywords: "movie, dvd, drama, scifi, adventure"
+  },
+  {
+    name:"Se7en",
+    keywords: "movie, dvd, crime, thriller, mystery, seven"
+  },
+  {
+    name:"Total Recall",
+    keywords: "movie, dvd,  Action, Adventure, scifi"
+  },
 ]
 
 let moviesList = new List('myMovies', listOptions, movieObj);
