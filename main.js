@@ -567,6 +567,10 @@ const movieObj = [
     keywords: "movie, dvd, Comedy, Drama, Romance"
   },
   {
+    name:"Beverly Hills Cop",
+    keywords: "movie, dvd, Comedy, Drama"
+  },
+  {
     name:"Beverly Hills Cop 2",
     keywords: "movie, dvd, Comedy, Drama, II"
   },
@@ -694,6 +698,22 @@ const movieObj = [
     name:"Total Recall",
     keywords: "movie, dvd,  Action, Adventure, scifi"
   },
+  {
+    name:"Eraser",
+    keywords: "movie, dvd,  Action, mystery, thriller"
+  },
+  {
+    name:"Lincoln Lawyer, The",
+    keywords: "movie, dvd,  crime, drama, thriller"
+  },
+  {
+    name:"Bloodsport",
+    keywords: "movie, dvd,  actoin, drama"
+  },
+  {
+    name:"Timecop",
+    keywords: "movie, dvd,  action, thriller, scifi"
+  }
 ]
 
 let moviesList = new List('myMovies', listOptions, movieObj);
